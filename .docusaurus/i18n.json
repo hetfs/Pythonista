@@ -13,8 +13,8 @@
       "calendar": "gregory",
       "path": "en",
       "translate": false,
-      "url": "https://hetfs.github.io",
-      "baseUrl": "/AI-Masters-Guide/"
+      "url": "https://your-docusaurus-site.example.com",
+      "baseUrl": "/"
     }
   }
 }

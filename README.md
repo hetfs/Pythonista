@@ -1,158 +1,227 @@
-# 🤖 AI Mastery: From Zero to Expert
+# 🐍 Pythonista: Complete Python Learning Journey
 
-**Embark on your AI journey with hands-on projects, top-tier resources, and an active learning community — all for free.**
-*Designed for total beginners through advanced learners, this 12–18 month roadmap lets you progress at your own pace.*
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+![Last Commit](https://img.shields.io/github/last-commit/hetfs/Pythonista)
+![Repo Size](https://img.shields.io/github/repo-size/hetfs/Pythonista)
+![Issues](https://img.shields.io/github/issues/hetfs/Pythonista)
+![Stars](https://img.shields.io/github/stars/hetfs/Pythonista?style=social)
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/hetfs/Pythonista/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hetfs/Pythonista/HEAD)
+[![Open in Codespaces](https://img.shields.io/badge/GitHub-Codespaces-blue?logo=github)](https://github.com/codespaces/new?repo=hetfs/Pythonista)
+[![Open in VS Code](https://img.shields.io/badge/Open_in-VS_Code_Web-blue?logo=visualstudiocode)](https://vscode.dev/github/hetfs/Pythonista)
 
 ---
 
-## 🌟 Why Choose This Roadmap?
+## 🚀 Why Pythonista?
 
-| **What You Get** | **Why It Matters** |
-| --- | --- |
-| 🛠️ **Project-Based Learning** | Build a portfolio with 20+ real-world AI projects |
-| 🆓 **Completely Free & Open Access** | Learn from the best open-source courses, tools, and tutorials |
-| 🧠 **Structured Step-by-Step Plan** | Go from Python basics to deploying AI models |
-| 🌐 **Global Community Support** | Join 5,000+ learners via Discord, GitHub, and community forums |
+| Feature                    | Description                               |
+| -------------------------- | ----------------------------------------- |
+| **🎯 Project-Based**       | Build 20+ real-world projects             |
+| **📚 Structured Learning** | From fundamentals to advanced concepts    |
+| **🏆 Portfolio Ready**     | Showcase projects that impress employers  |
+| **🔧 Best Practices**      | Learn industry standards from day one     |
+| **🌟 Community Driven**    | Active maintenance and open contributions |
 
 ---
 
-## 🚀 **Quick Start**
+## 🌐 Try it online (No setup needed)
 
-Clone the guide and dive right in:
+Want to dive right in? Run this project in the cloud without installing anything:
+
+* ▶️ **[Google Colab](https://colab.research.google.com/github/hetfs/Pythonista/)** Interactive Jupyter notebooks in your browser
+* 📦 **[Binder](https://mybinder.org/v2/gh/hetfs/Pythonista/HEAD)** Launch a live coding environment from this Repo
+* 💻 **[GitHub Codespaces](https://github.com/codespaces/new?repo=hetfs/Pythonista)** Full cloud dev environment (VS Code in the browser)
+* 📝 **[VS Code for the Web](https://vscode.dev/github/hetfs/Pythonista)** Edit and browse directly in your browser
+
+---
+
+## 📋 Prerequisites
+
+Before starting locally, make sure you have:
+
+| Tool        | Version             | Purpose                    |
+| ----------- | ------------------- | -------------------------- |
+| **Python**  | 3.10+                | Core programming language  |
+| **Git**     | Latest              | Version control            |
+| **Node.js** | 16.14+              | Documentation (Docusaurus) |
+| **Editor**  | VS Code recommended | Development environment    |
+
+---
+
+## ⚙️ Quick start
+
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/hetfs/AI-Masters-Guide.git
-cd AI-Masters-Guide
+git clone https://github.com/hetfs/Pythonista.git
+cd Pythonista
 ```
 
-📘 Browse the 12-Month Study Plan
+### 2. Set up virtual environment
+
+```bash
+python -m venv pythonista_env
+
+# Activate environment
+source pythonista_env/bin/activate  # Linux/Mac
+pythonista_env\Scripts\activate     # Windows
+```
+
+### 3. Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Launch documentation (Docusaurus)
+
+```bash
+cd Pythonista
+npm install
+npm start
+```
+
+Visit 👉 `http://localhost:3000` for interactive learning.
 
 ---
 
-## 🗺️ **The 4-Phase Learning Journey**
+## 🎯 Learning path
 
-### 📘 Phase 1: Core Foundations *(Months 1–3)*
+### Phase 1: Python fundamentals (Weeks 1–3)
 
-**Topics:** Python • Math for AI • Data Analysis  
-**Projects:** Titanic Survival Predictor 🛳️, Dice Simulator 🎲
+* ✅ Basic Syntax & Data Types
+* ✅ Control Structures
+* ✅ Functions & Modules
+* ✅ File Handling
+* ✅ Error Handling
 
-**Key Resources:**
+### Phase 2: Intermediate mastery (Weeks 4–6)
 
-- [Python for Everybody – Coursera](https://www.coursera.org/specializations/python)
-- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-- [Khan Academy – Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
-- [Data Loading with Python and AI – freeCodeCamp](https://www.freecodecamp.org/news/data-loading-with-python-and-ai/)
-- [Python Full Course for Beginners – YouTube](https://www.youtube.com/watch?v=eWRfhZUzrAc)
+* 🚧 Object-Oriented Programming
+* 🚧 Data Structures & Algorithms
+* 🚧 Decorators & Generators
+* 🚧 Working with APIs
+* 🚧 Testing & Debugging
 
----
+### Phase 3: Specialization tracks (Weeks 7–12)
 
-### 🤖 Phase 2: Machine Learning Basics *(Months 4–6)*
+#### 🌐 Web development
 
-**Topics:** Supervised Learning • Regression • Evaluation Metrics  
-**Projects:** Boston Housing Model 🏡, MNIST Digit Classifier 🔢
+```python
+from flask import Flask, render_template
+app = Flask(__name__)
 
-**Key Resources:**
+@app.route('/')
+def home():
+    return render_template('index.html', title='Pythonista')
+```
 
-- [Andrew Ng’s Machine Learning Course – Coursera](https://www.coursera.org/learn/machine-learning)
-- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
-- [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)
-- [Machine Learning with Python and Scikit-Learn – freeCodeCamp](https://www.freecodecamp.org/news/machine-learning-with-python-and-scikit-learn/)
-- [Machine Learning for Everybody – YouTube](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+#### 📊 Data science
 
----
+```python
+import pandas as pd
+def analyze_dataset(file_path):
+    data = pd.read_csv(file_path)
+    return data.describe(), data.corr()
+```
 
-### 🧠 Phase 3: Deep & Advanced AI *(Months 7–12)*
+#### 🤖 Automation
 
-**Topics:** NLP • Computer Vision • Reinforcement Learning  
-**Projects:** BERT Sentiment Classifier 💬, YOLO Object Detector 🎯
+```python
+import schedule, time
 
-**Key Resources:**
+def daily_backup():
+    print("Running backup...")
 
-- [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course)
-- [OpenAI Gymnasium](https://gymnasium.farama.org/)
-- [Fast.ai Practical Deep Learning](https://course.fast.ai/)
-- [Deep Reinforcement Learning Nanodegree (Free Trial) – Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
-- [Deep Learning for Beginners – YouTube](https://www.youtube.com/watch?v=aircAruvnKk)
-- [NLP Tutorial – Text Pre-Processing Techniques for Beginners – freeCodeCamp](https://www.freecodecamp.org/news/natural-language-processing-techniques-for-beginners/)
-- [An Introduction to Reinforcement Learning – freeCodeCamp](https://www.freecodecamp.org/news/an-introduction-to-reinforcement-learning-4339519de419/)
+schedule.every().day.at("01:00").do(daily_backup)
 
----
-
-### 🚀 Phase 4: Specialization & Real-World Deployment *(Months 13–18)*
-
-**Focus Areas:** AI in Healthcare 🏥 • Robotics 🤖 • AI Ethics 📜
-**Projects:** MedMNIST Classifier 🩺, Streamlit App Deployment 🚀
-**Tech Stack:** Docker • FastAPI • ROS
-
-**Key Resources:**
-
-- [Full Stack Deep Learning](https://fullstackdeeplearning.com/)
-- [ML Ops with Google](https://developers.google.com/machine-learning/operations)
-- [Deploying Machine Learning Models with Streamlit and Docker – YouTube](https://www.youtube.com/watch?v=mJgk5VJUGKE)
-- [How to Deploy an NLP Model with FastAPI – freeCodeCamp](https://www.freecodecamp.org/news/how-to-deploy-an-nlp-model-with-fastapi/)
-- [The Ethics of AI and ML – freeCodeCamp](https://www.freecodecamp.org/news/the-ethics-of-ai-and-ml/)
+while True:
+    schedule.run_pending()
+    time.sleep(1)
+```
 
 ---
 
-## 🔥 **Featured AI Projects**
+## 🛠️ Project showcase
 
-| **Project** | **Level** | **Domain** | **Tech Stack** | **Repo** |
-| --- | --- | --- | --- | --- |
-| **Spam Classifier** | 🟢 Beginner | NLP | Scikit-learn, NLTK | [GitHub](https://github.com/ArjunSreevatsan/Email-Spam-Classifier) |
-| **Titanic Predictor** | 🟢 Beginner | Data | Pandas, Scikit-learn | [GitHub](https://github.com/parrt/titanic-machine-learning) |
-| **MNIST Classifier** | 🟢 Beginner | CV  | TensorFlow/Keras | [GitHub](https://github.com/hsjeong5/MNIST-for-Numpy) |
-| **Real-Time Object Detection** | 🟡 Intermediate | CV  | YOLOv5, PyTorch | [GitHub](https://github.com/ultralytics/yolov5) |
-| **Face Mask Detector** | 🟡 Intermediate | CV  | OpenCV, TensorFlow | [GitHub](https://github.com/chandrikadeb7/Face-Mask-Detection) |
-| **Chatbot with Transformers** | 🟡 Intermediate | NLP | Hugging Face, PyTorch | [GitHub](https://github.com/gunthercox/ChatterBot) |
-| **BERT Sentiment Classifier** | 🔴 Advanced | NLP | Transformers, PyTorch | [GitHub](https://github.com/Souvikns/bert-sentiment-analysis) |
-| **YOLOv8 Custom Training** | 🔴 Advanced | CV  | PyTorch, YOLOv8 | [GitHub](https://github.com/roboflow-ai/yolov8-custom-training) |
-| **CartPole RL Agent** | 🟡 Intermediate | RL  | Gymnasium, PyTorch | [GitHub](https://github.com/dennybritz/reinforcement-learning) |
-| **DQN Atari Agent** | 🔴 Advanced | RL  | OpenAI Gym, TensorFlow | [GitHub](https://github.com/gsurma/cartpole) |
-| **Fine-Tune LLaMA 3** | 🔴 Advanced | LLM | Hugging Face, LoRA | [GitHub](https://github.com/haotian-liu/LLaVA) |
-| **Streamlit AI Dashboard** | 🟡 Intermediate | Deployment | Streamlit, Pandas | [GitHub](https://github.com/MarcSkovMadsen/awesome-streamlit) |
-| **AI API with FastAPI** | 🟡 Intermediate | Deployment | FastAPI, Docker | [GitHub](https://github.com/tiangolo/full-stack-fastapi-postgresql) |
-| **MLOps Pipeline** | 🔴 Advanced | MLOps | MLflow, Docker, K8s | [GitHub](https://github.com/DataTalksClub/mlops-zoomcamp) |
-| **AI in Healthcare** | 🔴 Advanced | Health | PyTorch, MedMNIST | [GitHub](https://github.com/MedMNIST/MedMNIST) |
-
-💡 *Start small. Master the basics. Then contribute to the community through advanced projects and open issues.*
+**Beginner**: 📝 Todo CLI · 🎮 Number Guessing · 💰 Expense Tracker · 📊 Weather App
+**Intermediate**: 🌐 Blog (Flask) · 📈 Stock Analyzer · 🤖 Discord Bot · 🛒 E-commerce API
+**Advanced**: 🧠 ML Model · ☁️ Cloud Deployment · 📱 Web Scraper · 🔗 microservices
 
 ---
 
-## 🧠 **The AI Knowledge Hub**
+## 📈 Recommended roadmap
 
-Stay current, dive deeper, and connect with the AI ecosystem:
-
-### 📚 Essential Books & Papers
-
-Foundational theory and breakthrough research.
-→ [Books & Research Library](https://github.com/hetfs/AI-Masters-Guide/blob/main/resources/books.md)
-
-### 🛠️ Frameworks & Tools
-
-Everything you need to build and deploy AI systems.
-→ [Explore Tools & Platforms](https://github.com/hetfs/AI-Masters-Guide/blob/main/resources/tools.md)
-
-### 🌍 Join the Global Community
-
-Participate in online forums, meetups, and hackathons.
-→ [Find AI Communities](https://github.com/hetfs/AI-Masters-Guide/blob/main/resources/communities.md)
+| Week | Focus          | Goal                                 |
+| ---- | -------------- | ------------------------------------ |
+| 1–2  | Fundamentals   | Core syntax & exercises              |
+| 3–4  | Intermediate   | Build 2–3 small projects             |
+| 5–8  | Specialization | Choose a track (Web/Data/Automation) |
+| 9–12 | Advanced       | Capstone project & portfolio         |
 
 ---
 
-## 🤝 **Contribute to the Roadmap**
+## 🤝 Contributing
 
-1. **Fork the repo**
-2. **Create a feature branch:**
-  ```bash
-  git checkout -b feature/YourFeatureName
-  ```
-3. **Commit your changes:**
-  ```bash
-  git commit -m "Add your feature"
-  ```
-4. **Push to GitHub:**
-  git push origin feature/YourFeatureName
+We welcome contributions!
 
-5. **Open a Pull Request 🚀**
+1. Fork the Repo
+2. Create a branch (`git checkout -b feature/awesome-feature`)
+3. Commit changes (`git commit -m "Add awesome feature"`)
+4. Push (`git push origin feature/awesome-feature`)
+5. Open a Pull Request
 
-📜 [Contribution Guidelines](https://github.com/hetfs/AI-Masters-Guide/blob/main/CONTRIBUTING.md)
+**Great First Issues:** add exercises, improve docs, fix bugs, translate content.
+
+---
+
+## 🏆 Achievement badges
+
+| Badge                                                       | Requirement           |
+| ----------------------------------------------------------- | --------------------- |
+| ![Basics](https://img.shields.io/badge/Python-Basics-green) | Complete fundamentals |
+| ![OOP](https://img.shields.io/badge/OOP-Master-yellow)      | Finish OOP            |
+| ![Web](https://img.shields.io/badge/Web-Developer-blue)     | Build web app         |
+| ![Data](https://img.shields.io/badge/Data-Analyst-orange)   | Finish data track     |
+
+---
+
+## 📚 Resources
+
+* [📖 Official Python Docs](https://docs.python.org/3/)
+* [Real Python](https://realpython.com/)
+* [Python Package Index (PyPI)](https://pypi.org/)
+
+---
+
+## ❓ FAQ
+
+**Q: How long does it take to complete?**
+A: 8–12 weeks at 10–15 hrs/week.
+
+**Q: Do I need prior experience?**
+A: No, this starts from scratch.
+
+**Q: Do I get a certificate?**
+A: No certificate, but you’ll build a strong portfolio.
+
+**Q: How do I get help?**
+A: Open an issue or join discussions.
+
+---
+
+## 📄 License
+
+Licensed under the **MIT License**. See [LICENSE](./LICENSE).
+
+---
+
+<div align="center">
+⭐ **Star this Repo if you find it useful!**
+
+[![Star History](https://api.star-history.com/svg?repos=hetfs/Pythonista\&type=Timeline)](https://star-history.com/#hetfs/Pythonista&Timeline)
+
+</div>

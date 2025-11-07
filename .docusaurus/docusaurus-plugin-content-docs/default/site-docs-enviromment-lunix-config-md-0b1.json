@@ -1,24 +1,29 @@
 {
-  "id": "enviromment/lunix-config",
-  "title": "🐧 Python Development Environment on Linux (with VS Code)",
+  "id": "enviromment/06-lunix-config",
+  "title": "🐧 Setup python on Linux",
   "description": "This guide sets up Python and Visual Studio Code (VS Code) for development on Linux, with support for both Bash and Fish shell users.",
   "source": "@site/docs/enviromment/lunix-config.md",
   "sourceDirName": "enviromment",
-  "slug": "/enviromment/lunix-config",
-  "permalink": "/AI-Masters-Guide/docs/enviromment/lunix-config",
+  "slug": "/enviromment/06-lunix-config",
+  "permalink": "/docs/enviromment/06-lunix-config",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/lunix-config.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/enviromment/lunix-config.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 39,
+  "frontMatter": {
+    "id": "06-lunix-config",
+    "title": "🐧 Setup python on Linux",
+    "sidebar_position": 39
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🍏 Setup python on macOS",
-    "permalink": "/AI-Masters-Guide/docs/enviromment/05-macOS-congi.mkdir"
+    "title": "👥 Team Development Workflows",
+    "permalink": "/docs/enviromment/team-workflows"
   },
   "next": {
-    "title": "🐍 Python Basics",
-    "permalink": "/AI-Masters-Guide/docs/category/-python-basics"
+    "title": "🪟 Setup python on windows",
+    "permalink": "/docs/enviromment/04-windows-config"
   }
 }

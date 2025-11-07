@@ -1,109 +1,209 @@
 {
-  "/AI-Masters-Guide/__docusaurus/debug-6d6": {
+  "/__docusaurus/debug-5ff": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/AI-Masters-Guide/__docusaurus/debug/config-3cb": {
+  "/__docusaurus/debug/config-5ba": {
     "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/AI-Masters-Guide/__docusaurus/debug/content-ee0": {
+  "/__docusaurus/debug/content-a2b": {
     "__comp": "__comp---theme-debug-contentba-8-ce7",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     },
-    "__props": "__props---ai-masters-guide-docusaurus-debug-content-515-61b"
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
   },
-  "/AI-Masters-Guide/__docusaurus/debug/globalData-ad8": {
+  "/__docusaurus/debug/globalData-c3c": {
     "__comp": "__comp---theme-debug-global-dataede-0fa",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/AI-Masters-Guide/__docusaurus/debug/metadata-e85": {
+  "/__docusaurus/debug/metadata-156": {
     "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/AI-Masters-Guide/__docusaurus/debug/registry-1a7": {
+  "/__docusaurus/debug/registry-88c": {
     "__comp": "__comp---theme-debug-registry-679-501",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/AI-Masters-Guide/__docusaurus/debug/routes-447": {
+  "/__docusaurus/debug/routes-000": {
     "__comp": "__comp---theme-debug-routes-946-699",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docusaurus-debugb-38-8e2"
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/AI-Masters-Guide/docs-ad5": {
+  "/docs-9ba": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-docsaba-37a"
+      "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/AI-Masters-Guide/docs-c94": {
+  "/docs-c8a": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
-    "__props": "__props---ai-masters-guide-docs-49-d-4e6"
+    "__props": "__props---docs-005-788"
   },
-  "/AI-Masters-Guide/docs-0e9": {
+  "/docs-cfb": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/AI-Masters-Guide/docs/category/-python-basics-b70": {
+  "/docs/category/getting-started-with-python-07c": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ai-masters-guide-docs-category-python-basicsf-15-859"
+    "__props": "__props---docs-category-getting-started-with-python-3-e-6-72a"
   },
-  "/AI-Masters-Guide/docs/category/-python-env-config-9f2": {
+  "/docs/category/read-eval-print-loop-d7d": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---ai-masters-guide-docs-category-python-env-config-6-cf-c88"
+    "__props": "__props---docs-category-read-eval-print-loop-1-a-4-0a2"
   },
-  "/AI-Masters-Guide/docs/enviromment/01-python-env-config-080": {
+  "/docs/category/structuring-your-project--d7a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "__props": "__props---docs-category-structuring-your-project-81-c-f95"
+  },
+  "/docs/interactive-REPL/01-intro-REPL-c58": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-enviromment-01-python-env-configef-8-9f8"
+    "content": "content---docs-interactive-repl-01-intro-rep-lc-75-189"
   },
-  "/AI-Masters-Guide/docs/enviromment/02-package-manager-895": {
+  "/docs/interactive-REPL/02-troubleshooting-REPL-74c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-enviromment-02-package-manager-88-a-5fe"
+    "content": "content---docs-interactive-repl-02-troubleshooting-repl-5-fd-6b5"
   },
-  "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools-d55": {
+  "/docs/interactive-REPL/03-variables-REPL-f08": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-enviromment-03-code-quality-toolsa-98-aed"
+    "content": "content---docs-interactive-repl-03-variables-rep-lec-8-10b"
   },
-  "/AI-Masters-Guide/docs/enviromment/04-windows-config-5d8": {
+  "/docs/interactive-REPL/04-assignment-operators-REPL-6fb": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-enviromment-04-windows-configd-31-4af"
+    "content": "content---docs-interactive-repl-04-assignment-operators-repl-2-ba-dae"
   },
-  "/AI-Masters-Guide/docs/enviromment/05-macOS-config-7ad": {
+  "/docs/interactive-REPL/05-expressions-REPL-1ab": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-enviromment-05-mac-os-congi-mkdir-967-bae"
+    "content": "content---docs-interactive-repl-05-expressions-repl-3-aa-d8f"
   },
-  "/AI-Masters-Guide/docs/enviromment/06-lunix-config-77e": {
+  "/docs/interactive-REPL/06-operator-precedence-REPL-54f": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-enviromment-lunix-confige-3-d-b75"
+    "content": "content---docs-interactive-repl-06-operator-precedence-rep-le-82-e9f"
   },
-  "/AI-Masters-Guide/docs/intro-cc1": {
+  "/docs/interactive-REPL/07-data-types-REPL-5cc": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-intro-0-e-3-0fc"
+    "content": "content---docs-interactive-repl-07-data-types-rep-ldba-5f7"
   },
-  "/AI-Masters-Guide/docs/python/basics/01-programming-ef3": {
+  "/docs/interactive-REPL/08-conditional-logic-REPL-b80": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-python-basics-01-programming-2-ae-33d"
+    "content": "content---docs-interactive-repl-08-conditional-logic-repl-852-2ce"
   },
-  "/AI-Masters-Guide/docs/python/basics/02-what-is-python-731": {
+  "/docs/interactive-REPL/08-math-module-b07": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---ai-masters-guide-docs-python-basics-02-what-is-python-601-2bc"
+    "content": "content---docs-interactive-repl-08-math-moduleaf-1-f15"
   },
-  "/AI-Masters-Guide/-27b": {
+  "/docs/interactive-REPL/09-binary-data-types-243": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-09-binary-data-typesc-3-a-f0a"
+  },
+  "/docs/interactive-REPL/09-booleans-1e1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-09-booleans-873-5d8"
+  },
+  "/docs/interactive-REPL/09-loops-iteration-REPL-f7f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-09-loops-iteration-repl-6-f-9-eb0"
+  },
+  "/docs/interactive-REPL/10-lists-7e2": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-10-lists-027-582"
+  },
+  "/docs/interactive-REPL/10-loop-patterns-067": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-10-loop-patternscf-8-0d6"
+  },
+  "/docs/interactive-REPL/11-python-numbers-c32": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-11-python-numbersf-85-ce3"
+  },
+  "/docs/interactive-REPL/11-tuples-d99": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-11-tuplesa-44-a2b"
+  },
+  "/docs/interactive-REPL/12-sets-495": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-12-sets-13-b-508"
+  },
+  "/docs/interactive-REPL/12-strings-REPL-f20": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-12-strings-rep-lfec-d81"
+  },
+  "/docs/interactive-REPL/13-dictionaries-REPL-ebf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-13-dictionaries-repl-5-c-1-c59"
+  },
+  "/docs/interactive-REPL/13-strings-functions-REPL-7cf": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-13-strings-functions-repl-705-f7a"
+  },
+  "/docs/interactive-REPL/ASCII-7bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-asci-iaa-2-95c"
+  },
+  "/docs/intro-61d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/introduction/01-what-is-programming-ae1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-01-what-is-programming-326-b65"
+  },
+  "/docs/introduction/02-introduction-python-a94": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-02-introduction-python-4-f-9-4e9"
+  },
+  "/docs/introduction/03-howt-to-run-python-9f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-03-howt-to-run-pythonae-3-c6a"
+  },
+  "/docs/introduction/04-command-line-options-e18": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-04-command-line-optionsf-69-1b7"
+  },
+  "/docs/introduction/04-python-formal-3e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-04-python-formal-70-c-757"
+  },
+  "/docs/introduction/05-naming-conventions-626": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-introduction-05-naming-conventionse-4-c-0ee"
+  },
+  "/docs/projects-setup/01-essential-steps-overview-b06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-setup-01-essential-steps-overview-96-d-174"
+  },
+  "/docs/projects-setup/02-python-project-layout-a71": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-setup-02-python-project-layoutf-47-972"
+  },
+  "/docs/projects-setup/python-project-docusaurus-5c1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-projects-setup-python-project-docusaurus-03-e-52e"
+  },
+  "/docs/python-specialization-903": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-python-specialization-5-b-7-165"
+  },
+  "/docs/what-is-new-f61": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-what-is-new-56-e-75b"
+  },
+  "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "plugin---ai-masters-guide-a-74-8a2"
+      "plugin": "plugin---a-74-9d6"
     },
-    "config": "config---ai-masters-guide-5-e-9-724"
+    "config": "config---5-e-9-4f3"
   }
 }

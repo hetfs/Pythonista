@@ -1,2 +1,0 @@
-
-print("Welocom to Python!")

@@ -1,4 +1,4 @@
- # 🌐 Code of Conduct
+# 🌐 Code of conduct
 
 ## 📜 Our Pledge
 
@@ -8,33 +8,31 @@ We are committed to building a free, high-quality AI learning platform that empo
 
 ---
 
-## 💡 Our Standards
+## 💡 The standards
 
 Examples of behavior that contributes to a positive environment include:
 
 - Using welcoming and inclusive language
-  
+
 - Being respectful of differing viewpoints and experiences
-  
+
 - Giving and gracefully accepting constructive feedback
-  
+
 - Acknowledging the work of others and giving credit where due
-  
+
 - Showing empathy toward all members of the community
-  
 
 Examples of unacceptable behavior include:
 
 - The use of sexualized language or imagery, or unwelcome sexual attention
-  
+
 - Trolling, insulting or derogatory comments, and personal or political attacks
-  
+
 - Public or private harassment
-  
+
 - Publishing others’ private information (such as email or location) without explicit permission
-  
+
 - Other conduct which could reasonably be considered inappropriate in a professional or educational setting
-  
 
 ---
 
@@ -43,15 +41,14 @@ Examples of unacceptable behavior include:
 This Code of Conduct applies to all community spaces—online and offline—including:
 
 - GitHub repositories (issues, pull requests, discussions)
-  
+
 - Documentation platforms (e.g., Docusaurus)
-  
+
 - Social media interactions involving the project
-  
+
 - Community events, meetups, or livestreams
-  
+
 - Any communication or collaboration channels related to this project
-  
 
 ---
 
@@ -67,7 +64,7 @@ They have the right and responsibility to remove, edit, or reject comments, comm
 
 If you experience or witness unacceptable behaviour, please report it to the project maintainers via:
 
- 📧 **Email**: hetfs01@gmail.com
+ 📧 **Email**: <hetfs01@gmail.com>
 
 Reports will be handled with confidentiality and care. We are committed to protecting reporters from retaliation.
 
@@ -87,8 +84,8 @@ Project maintainers will follow these guidelines in determining the consequences
 
 ## 🙌 Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at  
-https://www.contributor-covenant.org/version/2/1/code_of_conduct.html
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at
+<https://www.contributor-covenant.org/version/2/1/code_of_conduct.html>
 
 ---
 

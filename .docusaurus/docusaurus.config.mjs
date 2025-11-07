@@ -4,22 +4,50 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "AI Masters From Zero to AI export",
-  "tagline": "AI Masters Guide",
+  "title": "My Site",
+  "tagline": "Dinosaurs are cool",
   "favicon": "img/favicon.ico",
-  "url": "https://hetfs.github.io",
-  "baseUrl": "/AI-Masters-Guide/",
-  "trailingSlash": false,
-  "organizationName": "hetfs",
-  "projectName": "AI Masters Guide",
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": true,
+      "useCssCascadeLayers": true
+    },
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
+  "url": "https://your-docusaurus-site.example.com",
+  "baseUrl": "/",
+  "organizationName": "facebook",
+  "projectName": "docusaurus",
   "onBrokenLinks": "throw",
+  "i18n": {
+    "defaultLocale": "en",
+    "locales": [
+      "en"
+    ],
+    "path": "i18n",
+    "localeConfigs": {}
+  },
   "presets": [
     [
       "classic",
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/hetfs/AI-Masters-Guide"
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
           "showReadingTime": true,
@@ -30,7 +58,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/hetfs/AI-Masters-Guide",
+          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -43,10 +71,15 @@ export default {
   ],
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
+    "colorMode": {
+      "respectPrefersColorScheme": true,
+      "defaultMode": "light",
+      "disableSwitch": false
+    },
     "navbar": {
-      "title": "documentation",
+      "title": "My Site",
       "logo": {
-        "alt": "HEFTS LTD Logo",
+        "alt": "My Site Logo",
         "src": "img/logo.svg"
       },
       "items": [
@@ -62,7 +95,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/hetfs/AI-Masters-Guide",
+          "href": "https://github.com/facebook/docusaurus",
           "label": "GitHub",
           "position": "right"
         }
@@ -76,7 +109,7 @@ export default {
           "title": "Docs",
           "items": [
             {
-              "label": "documentation ",
+              "label": "Tutorial",
               "to": "/docs/intro"
             }
           ]
@@ -85,16 +118,16 @@ export default {
           "title": "Community",
           "items": [
             {
-              "label": "Facebook",
-              "href": "https://m.facebook.com/profile.php?id=100090714730738"
+              "label": "Stack Overflow",
+              "href": "https://stackoverflow.com/questions/tagged/docusaurus"
+            },
+            {
+              "label": "Discord",
+              "href": "https://discordapp.com/invite/docusaurus"
             },
             {
               "label": "X",
-              "href": "https://x.com/hetf01"
-            },
-            {
-              "label": "Buy Me A Coffee",
-              "href": "https://www.buymeacoffee.com/hetfs01f"
+              "href": "https://x.com/docusaurus"
             }
           ]
         },
@@ -102,13 +135,17 @@ export default {
           "title": "More",
           "items": [
             {
+              "label": "Blog",
+              "to": "/blog"
+            },
+            {
               "label": "GitHub",
-              "href": "https://github.com/hetfs"
+              "href": "https://github.com/facebook/docusaurus"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 HEFTS LTD."
+      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
     },
     "prism": {
       "theme": {
@@ -314,11 +351,6 @@ export default {
         }
       ]
     },
-    "colorMode": {
-      "defaultMode": "light",
-      "disableSwitch": false,
-      "respectPrefersColorScheme": false
-    },
     "docs": {
       "versionPersistence": "localStorage",
       "sidebar": {
@@ -338,35 +370,6 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
-  "i18n": {
-    "defaultLocale": "en",
-    "path": "i18n",
-    "locales": [
-      "en"
-    ],
-    "localeConfigs": {}
-  },
-  "future": {
-    "v4": {
-      "removeLegacyPostBuildHeadAttribute": false,
-      "useCssCascadeLayers": false
-    },
-    "experimental_faster": {
-      "swcJsLoader": false,
-      "swcJsMinimizer": false,
-      "swcHtmlMinimizer": false,
-      "lightningCssMinimizer": false,
-      "mdxCrossCompilerCache": false,
-      "rspackBundler": false,
-      "rspackPersistentCache": false,
-      "ssgWorkerThreads": false
-    },
-    "experimental_storage": {
-      "type": "localStorage",
-      "namespace": false
-    },
-    "experimental_router": "browser"
-  },
   "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [

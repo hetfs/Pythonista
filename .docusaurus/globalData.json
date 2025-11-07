@@ -1,68 +1,193 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/AI-Masters-Guide/docs",
+      "path": "/docs",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/AI-Masters-Guide/docs",
+          "path": "/docs",
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "enviromment/01-python-env-config",
-              "path": "/AI-Masters-Guide/docs/enviromment/01-python-env-config",
+              "id": "interactive-REPL/01-intro-REPL",
+              "path": "/docs/interactive-REPL/01-intro-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "enviromment/02-package-manager",
-              "path": "/AI-Masters-Guide/docs/enviromment/02-package-manager",
+              "id": "interactive-REPL/02-troubleshooting-REPL",
+              "path": "/docs/interactive-REPL/02-troubleshooting-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "enviromment/03-code-quality-tools",
-              "path": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools",
+              "id": "interactive-REPL/03-variables-REPL",
+              "path": "/docs/interactive-REPL/03-variables-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "enviromment/04-windows-config",
-              "path": "/AI-Masters-Guide/docs/enviromment/04-windows-config",
+              "id": "interactive-REPL/04-assignment-operators-REPL",
+              "path": "/docs/interactive-REPL/04-assignment-operators-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "enviromment/05-macOS-config",
-              "path": "/AI-Masters-Guide/docs/enviromment/05-macOS-config",
+              "id": "interactive-REPL/05-expressions-REPL",
+              "path": "/docs/interactive-REPL/05-expressions-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "enviromment/06-lunix-config",
-              "path": "/AI-Masters-Guide/docs/enviromment/06-lunix-config",
+              "id": "interactive-REPL/06-operator-precedence-REPL",
+              "path": "/docs/interactive-REPL/06-operator-precedence-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/07-data-types-REPL",
+              "path": "/docs/interactive-REPL/07-data-types-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/08-conditional-logic-REPL",
+              "path": "/docs/interactive-REPL/08-conditional-logic-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/08-math-module",
+              "path": "/docs/interactive-REPL/08-math-module",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/09-binary-data-types",
+              "path": "/docs/interactive-REPL/09-binary-data-types",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/09-booleans",
+              "path": "/docs/interactive-REPL/09-booleans",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/09-loops-iteration-REPL",
+              "path": "/docs/interactive-REPL/09-loops-iteration-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/10-lists",
+              "path": "/docs/interactive-REPL/10-lists",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/10-loop-patterns",
+              "path": "/docs/interactive-REPL/10-loop-patterns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/11-python-numbers",
+              "path": "/docs/interactive-REPL/11-python-numbers",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/11-tuples",
+              "path": "/docs/interactive-REPL/11-tuples",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/12-sets",
+              "path": "/docs/interactive-REPL/12-sets",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/12-strings-REPL",
+              "path": "/docs/interactive-REPL/12-strings-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/13-dictionaries-REPL",
+              "path": "/docs/interactive-REPL/13-dictionaries-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/13-strings-functions-REPL",
+              "path": "/docs/interactive-REPL/13-strings-functions-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/ASCII",
+              "path": "/docs/interactive-REPL/ASCII",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "intro",
-              "path": "/AI-Masters-Guide/docs/intro",
+              "path": "/docs/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "python/basics/01-programming",
-              "path": "/AI-Masters-Guide/docs/python/basics/01-programming",
+              "id": "introduction/01-what-is-programming",
+              "path": "/docs/introduction/01-what-is-programming",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "python/basics/02-what-is-python",
-              "path": "/AI-Masters-Guide/docs/python/basics/02-what-is-python",
+              "id": "introduction/02-introduction-python",
+              "path": "/docs/introduction/02-introduction-python",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/-python-env-config",
-              "path": "/AI-Masters-Guide/docs/category/-python-env-config",
+              "id": "introduction/03-howt-to-run-python",
+              "path": "/docs/introduction/03-howt-to-run-python",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/-python-basics",
-              "path": "/AI-Masters-Guide/docs/category/-python-basics",
+              "id": "introduction/04-command-line-options",
+              "path": "/docs/introduction/04-command-line-options",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/04-python-formal",
+              "path": "/docs/introduction/04-python-formal",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "introduction/05-naming-conventions",
+              "path": "/docs/introduction/05-naming-conventions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects-setup/01-essential-steps-overview",
+              "path": "/docs/projects-setup/01-essential-steps-overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects-setup/02-python-project-layout",
+              "path": "/docs/projects-setup/02-python-project-layout",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects-setup/python-project-docusaurus",
+              "path": "/docs/projects-setup/python-project-docusaurus",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "python-specialization",
+              "path": "/docs/python-specialization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "what-is-new",
+              "path": "/docs/what-is-new",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/getting-started-with-python",
+              "path": "/docs/category/getting-started-with-python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/read-eval-print-loop",
+              "path": "/docs/category/read-eval-print-loop",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/structuring-your-project-",
+              "path": "/docs/category/structuring-your-project-",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -70,7 +195,7 @@
           "sidebars": {
             "tutorialSidebar": {
               "link": {
-                "path": "/AI-Masters-Guide/docs/intro",
+                "path": "/docs/intro",
                 "label": "intro"
               }
             }

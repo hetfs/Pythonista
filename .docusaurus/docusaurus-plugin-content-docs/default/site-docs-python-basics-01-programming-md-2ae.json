@@ -5,10 +5,10 @@
   "source": "@site/docs/python/basics/01-programming.md",
   "sourceDirName": "python/basics",
   "slug": "/python/basics/01-programming",
-  "permalink": "/AI-Masters-Guide/docs/python/basics/01-programming",
+  "permalink": "/docs/python/basics/01-programming",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/python/basics/01-programming.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/python/basics/01-programming.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🐍 Python Basics",
-    "permalink": "/AI-Masters-Guide/docs/category/-python-basics"
+    "title": "About Python",
+    "permalink": "/docs/category/about-python"
   },
   "next": {
     "title": "Introduction to Python",
-    "permalink": "/AI-Masters-Guide/docs/python/basics/02-what-is-python"
+    "permalink": "/docs/python/basics/02-what-is-python"
   }
 }

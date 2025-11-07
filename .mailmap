@@ -1,0 +1,44 @@
+
+# .mailmap
+# Purpose: Normalize author/committer names & emails in Git history
+# Docs: https://git-scm.com/docs/gitmailmap
+
+# ========================================================
+# 📌 FORMAT:
+#   Canonical Name <canonical@email> Commit Name <commit@email>
+# ========================================================
+
+# ✅ Example 1: Correct a typo in email
+# Proper Name <correct@email.com> <typo@email.com>
+
+# ✅ Example 2: Unify multiple emails under one canonical identity
+# Proper Name <main@email.com> <alt1@email.com>
+# Proper Name <main@email.com> <alt2@email.com>
+
+# ✅ Example 3: Fix different name spellings
+# Proper Name <main@email.com> Wrong Name <main@email.com>
+
+# ========================================================
+# 🔧 Your project mappings go below:
+# (Uncomment and replace with real data)
+
+# Example mappings for contributors:
+# Binahf <binahf@protonmail.com> <binahf@oldmail.com>
+# Binahf <binahf@protonmail.com> <binahf@work.com>
+# Binahf <binahf@protonmail.com> Bina <binahf@personal.com>
+# Contributor Name <main@email.com> <typo@email.com>
+# Contributor Name <main@email.com> <other@email.com>
+
+# =======================================================
+# 
+# ⚡ How to use:
+# Save this file as .mailmap in your repo root.
+# Add your canonical email/name first, then list all variations underneath.
+# 
+# Test cleanup with:
+# 
+# git shortlog -se
+# 
+# You’ll now see deduplicated contributors with consistent names/emails.
+# 
+# ======================================================

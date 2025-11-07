@@ -5,25 +5,25 @@
   "source": "@site/docs/enviromment/windows-config.md",
   "sourceDirName": "enviromment",
   "slug": "/enviromment/04-windows-config",
-  "permalink": "/AI-Masters-Guide/docs/enviromment/04-windows-config",
+  "permalink": "/docs/enviromment/04-windows-config",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/windows-config.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/enviromment/windows-config.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 6,
+  "sidebarPosition": 65,
   "frontMatter": {
     "id": "04-windows-config",
     "title": "🪟 Setup python on windows",
-    "sidebar_position": 6
+    "sidebar_position": 65
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🧹 Code Quality Tools",
-    "permalink": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools"
+    "title": "🐧 Setup python on Linux",
+    "permalink": "/docs/enviromment/06-lunix-config"
   },
   "next": {
-    "title": "🐧 Python Development Environment on Linux (with VS Code)",
-    "permalink": "/AI-Masters-Guide/docs/enviromment/lunix-config"
+    "title": "🍏 Setup python on macOS",
+    "permalink": "/docs/enviromment/05-macOS-config"
   }
 }

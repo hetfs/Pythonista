@@ -1,23 +1,25 @@
 {
   "id": "intro",
-  "title": "👋 Getting Started",
-  "description": "Welcome to AI Mastery: From Zero to Expert — a structured, project-driven roadmap designed to take you from complete beginner to confident AI practitioner. Whether you’re just starting with Python or aiming to deploy advanced AI models, this guide combines hands-on coding, automation, data handling, and AI projects into one learning path.",
+  "title": "🐍 Pythonista journey",
+  "description": "A comprehensive, project-based Python curriculum that covers fundamentals to advanced topics through real-world applications.",
   "source": "@site/docs/intro.md",
   "sourceDirName": ".",
   "slug": "/intro",
-  "permalink": "/AI-Masters-Guide/docs/intro",
+  "permalink": "/docs/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/intro.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
   "frontMatter": {
-    "sidebar_position": 1
+    "sidebar_position": 1,
+    "title": "🐍 Pythonista journey",
+    "description": "A comprehensive, project-based Python curriculum that covers fundamentals to advanced topics through real-world applications."
   },
   "sidebar": "tutorialSidebar",
   "next": {
-    "title": "🐍 Python Env Config",
-    "permalink": "/AI-Masters-Guide/docs/category/-python-env-config"
+    "title": "What's New",
+    "permalink": "/docs/what-is-new"
   }
 }

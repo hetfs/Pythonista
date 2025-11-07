@@ -1,29 +1,25 @@
 {
-  "id": "enviromment/01-python-env-config",
-  "title": "🐍 Python Dev Setup",
-  "description": "A solid Python environment is the foundation for writing, testing, and maintaining code effectively. It combines tools, configurations, and workflows that ensure consistency, productivity, and smooth collaboration.",
+  "id": "enviromment/python-env-config",
+  "title": "python-env-config",
+  "description": "---",
   "source": "@site/docs/enviromment/01-python-env-config.md",
   "sourceDirName": "enviromment",
-  "slug": "/enviromment/01-python-env-config",
-  "permalink": "/AI-Masters-Guide/docs/enviromment/01-python-env-config",
+  "slug": "/enviromment/python-env-config",
+  "permalink": "/docs/enviromment/python-env-config",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/01-python-env-config.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/enviromment/01-python-env-config.md",
   "tags": [],
   "version": "current",
-  "sidebarPosition": 4,
-  "frontMatter": {
-    "id": "01-python-env-config",
-    "title": "🐍 Python Dev Setup",
-    "sidebar_position": 4
-  },
+  "sidebarPosition": 1,
+  "frontMatter": {},
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🐍 Python Env Config",
-    "permalink": "/AI-Masters-Guide/docs/category/-python-env-config"
+    "title": "Python Env Config",
+    "permalink": "/docs/category/python-env-config"
   },
   "next": {
-    "title": "📦 Package Management",
-    "permalink": "/AI-Masters-Guide/docs/enviromment/02-package-manager"
+    "title": "Try Python Online",
+    "permalink": "/docs/enviromment/try-it-online"
   }
 }

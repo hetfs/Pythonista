@@ -5,10 +5,10 @@
   "source": "@site/docs/enviromment/02-package-manager.md",
   "sourceDirName": "enviromment",
   "slug": "/enviromment/02-package-manager",
-  "permalink": "/AI-Masters-Guide/docs/enviromment/02-package-manager",
+  "permalink": "/docs/enviromment/02-package-manager",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/hetfs/AI-Masters-Guide/docs/enviromment/02-package-manager.md",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/enviromment/02-package-manager.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,
@@ -19,11 +19,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "🐍 Python Dev Setup",
-    "permalink": "/AI-Masters-Guide/docs/enviromment/01-python-env-config"
+    "title": "🏗️ Core Components",
+    "permalink": "/docs/enviromment/02-core-components"
   },
   "next": {
     "title": "🧹 Code Quality Tools",
-    "permalink": "/AI-Masters-Guide/docs/enviromment/03-code-quality-tools"
+    "permalink": "/docs/enviromment/03-code-quality-tools"
   }
 }
