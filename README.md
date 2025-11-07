@@ -1,4 +1,11 @@
-# 🐍 Pythonista: Complete Python Learning Journey
+
+<div align="center">
+
+# 🐍 Pythonista
+
+## Complete Python Learning Journey
+
+</div>
 
 ![Python Version](https://img.shields.io/badge/python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -38,19 +45,6 @@ Want to dive right in? Run this project in the cloud without installing anything
 
 ---
 
-## 📋 Prerequisites
-
-Before starting locally, make sure you have:
-
-| Tool        | Version             | Purpose                    |
-| ----------- | ------------------- | -------------------------- |
-| **Python**  | 3.10+                | Core programming language  |
-| **Git**     | Latest              | Version control            |
-| **Node.js** | 16.14+              | Documentation (Docusaurus) |
-| **Editor**  | VS Code recommended | Development environment    |
-
----
-
 ## ⚙️ Quick start
 
 ### 1. Clone the Repository
@@ -63,11 +57,11 @@ cd Pythonista
 ### 2. Set up virtual environment
 
 ```bash
-python -m venv pythonista_env
+python -m venv .venv
 
 # Activate environment
-source pythonista_env/bin/activate  # Linux/Mac
-pythonista_env\Scripts\activate     # Windows
+source .venv/bin/activate  # Linux/Mac
+.venv\Scripts\activate     # Windows
 ```
 
 ### 3. Install dependencies
@@ -147,9 +141,29 @@ while True:
 
 ## 🛠️ Project showcase
 
-**Beginner**: 📝 Todo CLI · 🎮 Number Guessing · 💰 Expense Tracker · 📊 Weather App
-**Intermediate**: 🌐 Blog (Flask) · 📈 Stock Analyzer · 🤖 Discord Bot · 🛒 E-commerce API
-**Advanced**: 🧠 ML Model · ☁️ Cloud Deployment · 📱 Web Scraper · 🔗 microservices
+* **Beginner**: 📝 Todo CLI
+
+* 🎮 Number Guessing
+
+* 💰 Expense Tracker
+
+* 📊 Weather App
+
+* **Intermediate**: 🌐 Blog (Flask)
+
+* 📈 Stock Analyzer
+
+* 🤖 Discord Bot
+
+* 🛒 E-commerce API
+
+* **Advanced**: 🧠 ML Model
+
+* ☁️ Cloud Deployment
+
+* 📱 Web Scraper
+
+* 🔗 microservices
 
 ---
 
