@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-9ba": {
+  "/docs-c40": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-c8a": {
+  "/docs-39d": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-cfb": {
+  "/docs-42a": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/getting-started-with-python-07c": {
@@ -99,57 +99,57 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-interactive-repl-08-conditional-logic-repl-852-2ce"
   },
-  "/docs/interactive-REPL/08-math-module-b07": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-08-math-moduleaf-1-f15"
-  },
-  "/docs/interactive-REPL/09-binary-data-types-243": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-09-binary-data-typesc-3-a-f0a"
-  },
-  "/docs/interactive-REPL/09-booleans-1e1": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-09-booleans-873-5d8"
-  },
   "/docs/interactive-REPL/09-loops-iteration-REPL-f7f": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-interactive-repl-09-loops-iteration-repl-6-f-9-eb0"
-  },
-  "/docs/interactive-REPL/10-lists-7e2": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-10-lists-027-582"
   },
   "/docs/interactive-REPL/10-loop-patterns-067": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-interactive-repl-10-loop-patternscf-8-0d6"
   },
-  "/docs/interactive-REPL/11-python-numbers-c32": {
+  "/docs/interactive-REPL/11-numbers-REPL-ad0": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-11-python-numbersf-85-ce3"
+    "content": "content---docs-interactive-repl-11-numbers-repl-3-cd-2c9"
   },
-  "/docs/interactive-REPL/11-tuples-d99": {
+  "/docs/interactive-REPL/12-math-module-REPL-c8a": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-11-tuplesa-44-a2b"
+    "content": "content---docs-interactive-repl-12-math-module-repl-659-e8d"
   },
-  "/docs/interactive-REPL/12-sets-495": {
+  "/docs/interactive-REPL/13-ascii-REPL-b89": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-12-sets-13-b-508"
+    "content": "content---docs-interactive-repl-13-ascii-repl-123-edb"
   },
-  "/docs/interactive-REPL/12-strings-REPL-f20": {
+  "/docs/interactive-REPL/14-strings-REPL-c32": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-12-strings-rep-lfec-d81"
+    "content": "content---docs-interactive-repl-14-strings-repl-314-0d3"
   },
-  "/docs/interactive-REPL/13-dictionaries-REPL-ebf": {
+  "/docs/interactive-REPL/15-strings-functions-REPL-c9b": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-13-dictionaries-repl-5-c-1-c59"
+    "content": "content---docs-interactive-repl-15-strings-functions-repl-318-ada"
   },
-  "/docs/interactive-REPL/13-strings-functions-REPL-7cf": {
+  "/docs/interactive-REPL/16-lists-REPL-502": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-13-strings-functions-repl-705-f7a"
+    "content": "content---docs-interactive-repl-16-lists-repl-917-c30"
   },
-  "/docs/interactive-REPL/ASCII-7bb": {
+  "/docs/interactive-REPL/17-dictionaries-REPL-8f2": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-asci-iaa-2-95c"
+    "content": "content---docs-interactive-repl-17-dictionaries-repl-11-c-af2"
+  },
+  "/docs/interactive-REPL/18-tuples-REPL-f16": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-18-tuples-repl-913-0f8"
+  },
+  "/docs/interactive-REPL/19-sets-REPL-823": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-19-sets-rep-lb-98-7a1"
+  },
+  "/docs/interactive-REPL/20-Booleans-REPL-03c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-20-booleans-rep-la-31-4d7"
+  },
+  "/docs/interactive-REPL/21-binary-data-types-27a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-interactive-repl-21-binary-data-typese-27-4bc"
   },
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -194,6 +194,58 @@
   "/docs/python-specialization-903": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-python-specialization-5-b-7-165"
+  },
+  "/docs/TO-DO/-4c4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-562-b90"
+  },
+  "/docs/TO-DO/ASGI-082": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-asgi-607-93a"
+  },
+  "/docs/TO-DO/build_package-6ad": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-build-package-2-dc-e9f"
+  },
+  "/docs/TO-DO/editorconfig-7ef": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-editorconfiga-14-ae3"
+  },
+  "/docs/TO-DO/license-3e4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-licensec-00-b2b"
+  },
+  "/docs/TO-DO/live_dashboard-be6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-live-dashboarda-30-967"
+  },
+  "/docs/TO-DO/markdown-setup-d9a": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-markdown-setupf-6-e-faf"
+  },
+  "/docs/TO-DO/markdown-tools-d40": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-markdown-toolsc-6-f-d58"
+  },
+  "/docs/TO-DO/project-80d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-project-51-d-b6e"
+  },
+  "/docs/TO-DO/project_confi-623": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-project-confi-41-d-525"
+  },
+  "/docs/TO-DO/project_layout-221": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-project-layout-43-d-796"
+  },
+  "/docs/TO-DO/project-requirements-284": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-project-requirements-7-e-2-f39"
+  },
+  "/docs/TO-DO/project1-c56": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-to-do-project-1-bb-8-c25"
   },
   "/docs/what-is-new-f61": {
     "__comp": "__comp---theme-doc-item-178-a40",

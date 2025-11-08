@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', '9ba'),
+    component: ComponentCreator('/docs', 'c40'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'c8a'),
+        component: ComponentCreator('/docs', '39d'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', 'cfb'),
+            component: ComponentCreator('/docs', '42a'),
             routes: [
               {
                 path: '/docs/category/getting-started-with-python',
@@ -116,32 +116,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/08-math-module',
-                component: ComponentCreator('/docs/interactive-REPL/08-math-module', 'b07'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/interactive-REPL/09-binary-data-types',
-                component: ComponentCreator('/docs/interactive-REPL/09-binary-data-types', '243'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/interactive-REPL/09-booleans',
-                component: ComponentCreator('/docs/interactive-REPL/09-booleans', '1e1'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
                 path: '/docs/interactive-REPL/09-loops-iteration-REPL',
                 component: ComponentCreator('/docs/interactive-REPL/09-loops-iteration-REPL', 'f7f'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/interactive-REPL/10-lists',
-                component: ComponentCreator('/docs/interactive-REPL/10-lists', '7e2'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -152,44 +128,68 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/11-python-numbers',
-                component: ComponentCreator('/docs/interactive-REPL/11-python-numbers', 'c32'),
+                path: '/docs/interactive-REPL/11-numbers-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/11-numbers-REPL', 'ad0'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/11-tuples',
-                component: ComponentCreator('/docs/interactive-REPL/11-tuples', 'd99'),
+                path: '/docs/interactive-REPL/12-math-module-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/12-math-module-REPL', 'c8a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/12-sets',
-                component: ComponentCreator('/docs/interactive-REPL/12-sets', '495'),
+                path: '/docs/interactive-REPL/13-ascii-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/13-ascii-REPL', 'b89'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/12-strings-REPL',
-                component: ComponentCreator('/docs/interactive-REPL/12-strings-REPL', 'f20'),
+                path: '/docs/interactive-REPL/14-strings-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/14-strings-REPL', 'c32'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/13-dictionaries-REPL',
-                component: ComponentCreator('/docs/interactive-REPL/13-dictionaries-REPL', 'ebf'),
+                path: '/docs/interactive-REPL/15-strings-functions-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/15-strings-functions-REPL', 'c9b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/13-strings-functions-REPL',
-                component: ComponentCreator('/docs/interactive-REPL/13-strings-functions-REPL', '7cf'),
+                path: '/docs/interactive-REPL/16-lists-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/16-lists-REPL', '502'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/interactive-REPL/ASCII',
-                component: ComponentCreator('/docs/interactive-REPL/ASCII', '7bb'),
+                path: '/docs/interactive-REPL/17-dictionaries-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/17-dictionaries-REPL', '8f2'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/interactive-REPL/18-tuples-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/18-tuples-REPL', 'f16'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/interactive-REPL/19-sets-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/19-sets-REPL', '823'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/interactive-REPL/20-Booleans-REPL',
+                component: ComponentCreator('/docs/interactive-REPL/20-Booleans-REPL', '03c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/interactive-REPL/21-binary-data-types',
+                component: ComponentCreator('/docs/interactive-REPL/21-binary-data-types', '27a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -256,6 +256,84 @@ export default [
               {
                 path: '/docs/python-specialization',
                 component: ComponentCreator('/docs/python-specialization', '903'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/',
+                component: ComponentCreator('/docs/TO-DO/', '4c4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/ASGI',
+                component: ComponentCreator('/docs/TO-DO/ASGI', '082'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/build_package',
+                component: ComponentCreator('/docs/TO-DO/build_package', '6ad'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/editorconfig',
+                component: ComponentCreator('/docs/TO-DO/editorconfig', '7ef'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/license',
+                component: ComponentCreator('/docs/TO-DO/license', '3e4'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/live_dashboard',
+                component: ComponentCreator('/docs/TO-DO/live_dashboard', 'be6'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/markdown-setup',
+                component: ComponentCreator('/docs/TO-DO/markdown-setup', 'd9a'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/markdown-tools',
+                component: ComponentCreator('/docs/TO-DO/markdown-tools', 'd40'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/project',
+                component: ComponentCreator('/docs/TO-DO/project', '80d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/project_confi',
+                component: ComponentCreator('/docs/TO-DO/project_confi', '623'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/project_layout',
+                component: ComponentCreator('/docs/TO-DO/project_layout', '221'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/project-requirements',
+                component: ComponentCreator('/docs/TO-DO/project-requirements', '284'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/TO-DO/project1',
+                component: ComponentCreator('/docs/TO-DO/project1', 'c56'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

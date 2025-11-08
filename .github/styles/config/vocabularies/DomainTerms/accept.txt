@@ -116,3 +116,18 @@ untrusted
 validator
 
 dicts
+
+microcontrollers
+
+hashable
+frozensets
+frozenset
+superset
+booleans 
+boolean
+falsy 
+truthy
+bytearrays
+memoryviews
+
+

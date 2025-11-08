@@ -51,28 +51,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/08-math-module",
-              "path": "/docs/interactive-REPL/08-math-module",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "interactive-REPL/09-binary-data-types",
-              "path": "/docs/interactive-REPL/09-binary-data-types",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "interactive-REPL/09-booleans",
-              "path": "/docs/interactive-REPL/09-booleans",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "interactive-REPL/09-loops-iteration-REPL",
               "path": "/docs/interactive-REPL/09-loops-iteration-REPL",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "interactive-REPL/10-lists",
-              "path": "/docs/interactive-REPL/10-lists",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -81,38 +61,58 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/11-python-numbers",
-              "path": "/docs/interactive-REPL/11-python-numbers",
+              "id": "interactive-REPL/11-numbers-REPL",
+              "path": "/docs/interactive-REPL/11-numbers-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/11-tuples",
-              "path": "/docs/interactive-REPL/11-tuples",
+              "id": "interactive-REPL/12-math-module-REPL",
+              "path": "/docs/interactive-REPL/12-math-module-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/12-sets",
-              "path": "/docs/interactive-REPL/12-sets",
+              "id": "interactive-REPL/13-ascii-REPL",
+              "path": "/docs/interactive-REPL/13-ascii-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/12-strings-REPL",
-              "path": "/docs/interactive-REPL/12-strings-REPL",
+              "id": "interactive-REPL/14-strings-REPL",
+              "path": "/docs/interactive-REPL/14-strings-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/13-dictionaries-REPL",
-              "path": "/docs/interactive-REPL/13-dictionaries-REPL",
+              "id": "interactive-REPL/15-strings-functions-REPL",
+              "path": "/docs/interactive-REPL/15-strings-functions-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/13-strings-functions-REPL",
-              "path": "/docs/interactive-REPL/13-strings-functions-REPL",
+              "id": "interactive-REPL/16-lists-REPL",
+              "path": "/docs/interactive-REPL/16-lists-REPL",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "interactive-REPL/ASCII",
-              "path": "/docs/interactive-REPL/ASCII",
+              "id": "interactive-REPL/17-dictionaries-REPL",
+              "path": "/docs/interactive-REPL/17-dictionaries-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/18-tuples-REPL",
+              "path": "/docs/interactive-REPL/18-tuples-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/19-sets-REPL",
+              "path": "/docs/interactive-REPL/19-sets-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/20-Booleans-REPL",
+              "path": "/docs/interactive-REPL/20-Booleans-REPL",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "interactive-REPL/21-binary-data-types",
+              "path": "/docs/interactive-REPL/21-binary-data-types",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -168,6 +168,71 @@
             {
               "id": "python-specialization",
               "path": "/docs/python-specialization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/ASGI",
+              "path": "/docs/TO-DO/ASGI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/build_package",
+              "path": "/docs/TO-DO/build_package",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/editorconfig",
+              "path": "/docs/TO-DO/editorconfig",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/license",
+              "path": "/docs/TO-DO/license",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/live_dashboard",
+              "path": "/docs/TO-DO/live_dashboard",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/markdown-setup",
+              "path": "/docs/TO-DO/markdown-setup",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/markdown-tools",
+              "path": "/docs/TO-DO/markdown-tools",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/project",
+              "path": "/docs/TO-DO/project",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/project_confi",
+              "path": "/docs/TO-DO/project_confi",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/project_layout",
+              "path": "/docs/TO-DO/project_layout",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/project-requirements",
+              "path": "/docs/TO-DO/project-requirements",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/project1",
+              "path": "/docs/TO-DO/project1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TO-DO/writing-a-great-readme",
+              "path": "/docs/TO-DO/",
               "sidebar": "tutorialSidebar"
             },
             {

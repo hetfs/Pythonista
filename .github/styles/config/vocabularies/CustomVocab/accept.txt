@@ -123,7 +123,7 @@ Kivy
 
 cx_Freeze
 
-Cybersecurity
+Cybersecurityj
 
 Scapy
 
@@ -138,3 +138,17 @@ Iterable
 Formattable
 
 Docusaurus
+
+teletyped
+
+Pulseboard
+
+sanitization
+
+combinatorics
+
+Booleans
+Boolean
+
+Truthy
+Falsy 
