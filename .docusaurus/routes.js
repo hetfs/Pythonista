@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'c40'),
+    component: ComponentCreator('/docs', '104'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '39d'),
+        component: ComponentCreator('/docs', '683'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '42a'),
+            component: ComponentCreator('/docs', '8af'),
             routes: [
               {
                 path: '/docs/category/getting-started-with-python',
@@ -256,84 +256,6 @@ export default [
               {
                 path: '/docs/python-specialization',
                 component: ComponentCreator('/docs/python-specialization', '903'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/',
-                component: ComponentCreator('/docs/TO-DO/', '4c4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/ASGI',
-                component: ComponentCreator('/docs/TO-DO/ASGI', '082'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/build_package',
-                component: ComponentCreator('/docs/TO-DO/build_package', '6ad'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/editorconfig',
-                component: ComponentCreator('/docs/TO-DO/editorconfig', '7ef'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/license',
-                component: ComponentCreator('/docs/TO-DO/license', '3e4'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/live_dashboard',
-                component: ComponentCreator('/docs/TO-DO/live_dashboard', 'be6'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/markdown-setup',
-                component: ComponentCreator('/docs/TO-DO/markdown-setup', 'd9a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/markdown-tools',
-                component: ComponentCreator('/docs/TO-DO/markdown-tools', 'd40'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/project',
-                component: ComponentCreator('/docs/TO-DO/project', '80d'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/project_confi',
-                component: ComponentCreator('/docs/TO-DO/project_confi', '623'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/project_layout',
-                component: ComponentCreator('/docs/TO-DO/project_layout', '221'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/project-requirements',
-                component: ComponentCreator('/docs/TO-DO/project-requirements', '284'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/TO-DO/project1',
-                component: ComponentCreator('/docs/TO-DO/project1', 'c56'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

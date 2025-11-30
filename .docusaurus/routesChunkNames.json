@@ -42,17 +42,17 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/docs-c40": {
+  "/docs-104": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-39d": {
+  "/docs-683": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-42a": {
+  "/docs-8af": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/getting-started-with-python-07c": {
@@ -145,7 +145,7 @@
   },
   "/docs/interactive-REPL/20-Booleans-REPL-03c": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-interactive-repl-20-booleans-rep-la-31-4d7"
+    "content": "content---docs-interactive-repl-20-booleans-rep-la-31-db9"
   },
   "/docs/interactive-REPL/21-binary-data-types-27a": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -194,58 +194,6 @@
   "/docs/python-specialization-903": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-python-specialization-5-b-7-165"
-  },
-  "/docs/TO-DO/-4c4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-562-b90"
-  },
-  "/docs/TO-DO/ASGI-082": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-asgi-607-93a"
-  },
-  "/docs/TO-DO/build_package-6ad": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-build-package-2-dc-e9f"
-  },
-  "/docs/TO-DO/editorconfig-7ef": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-editorconfiga-14-ae3"
-  },
-  "/docs/TO-DO/license-3e4": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-licensec-00-b2b"
-  },
-  "/docs/TO-DO/live_dashboard-be6": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-live-dashboarda-30-967"
-  },
-  "/docs/TO-DO/markdown-setup-d9a": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-markdown-setupf-6-e-faf"
-  },
-  "/docs/TO-DO/markdown-tools-d40": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-markdown-toolsc-6-f-d58"
-  },
-  "/docs/TO-DO/project-80d": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-project-51-d-b6e"
-  },
-  "/docs/TO-DO/project_confi-623": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-project-confi-41-d-525"
-  },
-  "/docs/TO-DO/project_layout-221": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-project-layout-43-d-796"
-  },
-  "/docs/TO-DO/project-requirements-284": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-project-requirements-7-e-2-f39"
-  },
-  "/docs/TO-DO/project1-c56": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-to-do-project-1-bb-8-c25"
   },
   "/docs/what-is-new-f61": {
     "__comp": "__comp---theme-doc-item-178-a40",
