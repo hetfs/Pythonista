@@ -1,15 +1,68 @@
+# ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐
+# │ H │ │ E │ │ T │ │ F │ │ S │
+# └───┘ └───┘ └───┘ └───┘ └───┘
+# ===========================================================
+# HETFS LTD. Code for a Brighter Future
+# https://github.com/hetfs/dotfiles
+# ===========================================================
+#
+# EditorConfig Reference:
+# https://editorconfig.org
+# https://spec.editorconfig.org/
+# ===========================================================
+
 root = true
 
-[*.{py,c,cpp,h,js,rst,md,yml,yaml,gram}]
+# -----------------------------------------------------------
+# Global Defaults
+# -----------------------------------------------------------
+[*]
+charset = utf-8
+end_of_line = lf
+max_line_length = 120
+indent_style = space
+indent_size = 4
 trim_trailing_whitespace = true
 insert_final_newline = true
-indent_style = space
 
+# -----------------------------------------------------------
+# Python, C, C++, and Grammar Files
+# -----------------------------------------------------------
 [*.{py,c,cpp,h,gram}]
 indent_size = 4
 
+# -----------------------------------------------------------
+# reStructuredText
+# -----------------------------------------------------------
 [*.rst]
 indent_size = 3
 
-[*.{js,yml}]
+# -----------------------------------------------------------
+# JavaScript, TypeScript, CSS, and Frontend Files
+# -----------------------------------------------------------
+[*.{js,jsx,ts,tsx,css,less,sass,scss,vue}]
 indent_size = 2
+
+# -----------------------------------------------------------
+# YAML and Markdown
+# -----------------------------------------------------------
+[*.{yml,yaml,md}]
+indent_size = 2
+
+# -----------------------------------------------------------
+# Go, Lua, Make, and Module Files (Tab-based indentation)
+# -----------------------------------------------------------
+[*.{go,lua}]
+indent_style = tab
+
+[Makefile]
+indent_style = tab
+
+[.gitmodules]
+indent_style = tab
+
+[go.mod]
+indent_style = tab
+
+[go.sum]
+indent_style = tab

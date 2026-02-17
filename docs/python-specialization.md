@@ -5,7 +5,7 @@ sidebar_position: 3
 description: Choose your Python career path with structured learning for Web Development, Data Science, Machine Learning, and DevOps
 ---
 
-# 🎯 Python specialization guide
+# 🎯 Python specialization
 
 After mastering Python fundamentals, it's time to focus on a specialization that aligns with your career goals. Each path below includes **structured stages** with recommended skills, tools, and real-world project ideas.
 
@@ -358,19 +358,7 @@ Automate workflows, manage infrastructure, and streamline development processes.
 * **Skill transferability**: Consider how skills might apply across domains
 * **Start with one**: Master one specialization before branching out
 
-### **Building your portfolio**
-
-```python
-# Example: Track your progress
-specialization_progress = {
-    "web_development": {
-        "completed": ["Flask Basics", "REST APIs"],
-        "current": "Django ORM",
-        "next": "Deployment",
-        "projects": ["Blog", "Todo API"]
-    }
-}
-```
+---
 
 ### **📊 Recommended learning approach**
 

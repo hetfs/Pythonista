@@ -234,7 +234,7 @@ Licensed under the **MIT License**. See [LICENSE](./LICENSE).
 ---
 
 <div align="center">
-⭐ **Star this Repo if you find it useful!**
+  # ⭐ Star this Repo if you find it useful!
 
 [![Star History](https://api.star-history.com/svg?repos=hetfs/Pythonista\&type=Timeline)](https://star-history.com/#hetfs/Pythonista&Timeline)
 

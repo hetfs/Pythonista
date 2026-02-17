@@ -34,7 +34,7 @@ This mode lets you type code line by line and view the results instantly.
 4. LOOP   → It waits for your next command
 ````
 
-It feels like chatting with Python—you type and it responds.
+It feels like chatting with Python you type and it responds.
 
 ### Steps to open the REPL
 
@@ -56,23 +56,6 @@ Type "help", "copyright", "credits" or "license" for more information.
 ```
 
 That `>>>` means Python stands ready for your commands.
-
----
-
-## 🖥️ Try a graphical version
-
-If you prefer a windowed tool instead of the terminal, try one of these:
-
-* **IDLE**: (Integrated Development and Learning Environment) included with Python.
-  Launch it with:
-
-  ```bash
-  python3 -m idlelib
-  ```
-
-* [Install IPython](https://ipython.org/install.html) an advanced REPL with syntax highlighting, tab completion, and extra commands.
-
-* [Install Jupyter](https://jupyter.org/install) Notebook combines code, text, and visuals for interactive learning.
 
 ---
 

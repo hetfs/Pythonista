@@ -1,0 +1,174 @@
+# ┌───┐ ┌───┐ ┌───┐ ┌───┐ ┌───┐
+# │ H │ │ E │ │ T │ │ F │ │ S │
+# └───┘ └───┘ └───┘ └───┘ └───┘
+# ===========================================================
+# 🌍 HETFS LTD. Code for a Brighter Future
+# https://github.com/hetfs/dotfiles
+# ===========================================================
+
+# Reference: https://github.com/DavidAnson/markdownlint
+# markdownlint configuration Neovim professional baseline
+# All rules are explicitly defined or inherited from built-in defaults.
+
+default: true
+
+# === Line length =============================================================
+MD013:
+  line_length: 120
+  heading_line_length: 80
+  code_blocks: false
+  tables: false
+  headings: true
+  strict: false
+  stern: false
+
+# === Duplicate headings ======================================================
+MD024:
+  siblings_only: false
+
+# === Inline HTML =============================================================
+MD033:
+  allowed_elements:
+    - details
+    - summary
+    - div
+    - span
+    - sup
+    - sub
+    - kbd
+    - br
+    - hr
+
+# === Bare URLs ===============================================================
+MD034: true
+
+# === Horizontal rules ========================================================
+MD035:
+  style: "---"
+
+# === Emphasis used instead of heading =======================================
+MD036: false
+
+# === Fenced code block language =============================================
+MD040: true
+
+# === First line heading =====================================================
+MD041:
+  level: 1
+  front_matter_title: "^\\s*title\\s*[:=]"
+
+# === Empty links ============================================================
+MD042: true
+
+# === Image alt text =========================================================
+MD045: true
+
+# === Code block style =======================================================
+MD046:
+  style: "fenced"
+
+# === Single trailing newline ================================================
+MD047: true
+
+# === Code fence style =======================================================
+MD048:
+  style: "backtick"
+
+# === Emphasis style =========================================================
+MD049:
+  style: "asterisk"
+
+# === Strong style ===========================================================
+MD050:
+  style: "asterisk"
+
+# === Link fragments =========================================================
+MD051: true
+
+# === Reference links =========================================================
+MD052: true
+
+# === Link/image reference definitions =======================================
+MD053: true
+
+# === Unordered list indentation =============================================
+MD007:
+  indent: 2
+
+# === Trailing spaces ========================================================
+MD009:
+  br_spaces: 2
+  list_item_empty_lines: false
+  strict: false
+
+# === Multiple consecutive blank lines =======================================
+MD012:
+  maximum: 1
+
+# === Trailing punctuation in headings =======================================
+MD026:
+  punctuation: ".,;:!?。，；：！？"
+
+# === Ordered list item prefix ===============================================
+MD029:
+  style: "one"
+
+# === Spaces after list markers ==============================================
+MD030:
+  ul_single: 1
+  ol_single: 1
+  ul_multi: 1
+  ol_multi: 1
+
+# === Fenced code blank lines ================================================
+MD031: true
+
+# === Lists surrounded by blank lines ========================================
+MD032: true
+
+# === Unordered list style ===================================================
+MD004:
+  style: "consistent"
+
+# === Inconsistent indentation ===============================================
+MD005: true
+
+# === Indentation of sub-lists ===============================================
+MD006: false
+
+# === Hard tabs ==============================================================
+MD010:
+  code_blocks: true
+
+# === Heading spacing ========================================================
+MD018: true
+MD019: true
+MD020: true
+MD021: true
+
+# === Blank lines around headings ============================================
+MD022:
+  lines_above: 1
+  lines_below: 1
+
+# === Heading start of line ==================================================
+MD023: true
+
+# === Multiple top-level headings ============================================
+MD025: false #  disabled – allows multiple H1s
+
+# === Blockquote spacing =====================================================
+MD027: true
+MD028: true
+
+# === Spaces inside emphasis =================================================
+MD037: true
+MD038: true
+MD039: true
+
+# === Proper names (capitalisation) ==========================================
+MD044:
+  names: []
+  code_blocks: false
+
+MD060: false

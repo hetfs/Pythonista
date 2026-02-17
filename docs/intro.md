@@ -4,14 +4,14 @@ title: 🐍 Pythonista journey
 description: A comprehensive, project-based Python curriculum that covers fundamentals to advanced topics through real-world applications.
 ---
 
-# 🐍 Complete Python journey
+# 🐍 Pythonista journey
 
 Welcome to **Pythonista** more than just tutorials, it’s a **project-based learning path** where every chapter ends with hands-on projects.
 By the end of this journey, you’ll build a professional portfolio that demonstrates your skills in **automation, data science, AI, and deployment** the same abilities used by engineers in the field.
 
 ---
 
-## 🚀 Why choose Pythonista
+## 🚀 Why Pythonista
 
 | Feature | Benefit |
 |----------|----------|
@@ -32,7 +32,7 @@ Before you start, make sure these tools exist on your system:
 | **Python** | 3.12 or later | Core language and runtime |
 | **Git** | Latest | Version control and collaboration |
 | **Node.js** | Latest | Documentation platform |
-| **Code editor** | Latest | VS Code recommended for the best experience |
+| **Code editor** | Latest |  Any code editor  |
 
 ---
 
@@ -56,29 +56,21 @@ Then open **[http://localhost:3000](http://localhost:3000)** to explore the inte
 
 ---
 
-## 🌐 Try it online (zero setup required)
+## 🌐 Try it online
 
-No installation? No problem launch Pythonista instantly in a **cloud environment**:
+zero setup required, No installation? No problem launch Pythonista instantly in a **cloud environment**:
 
 | Platform                | Description                                            | Link                                                                    |
 | ----------------------- | ------------------------------------------------------ | ----------------------------------------------------------------------- |
-| **Google Colab**        | Run interactive Jupyter notebooks in your browser      | [▶️ Launch](https://colab.research.google.com/github/hetfs/Pythonista/) |
-| **Binder**              | Start this repository in an instant coding environment | [🚀 Launch](https://mybinder.org/v2/gh/hetfs/Pythonista/HEAD)           |
 | **GitHub Codespaces**   | Full VS Code-powered cloud environment                 | [💻 Launch](https://github.com/codespaces/new?repo=hetfs/Pythonista)    |
 | **VS Code for the web** | Edit and browse code directly in your browser          | [📝 Open](https://vscode.dev/github/hetfs/Pythonista)                   |
 
 ---
 
-# 🧭 Python learning roadmap
+## 🧭 learning roadmap
 
 Learning Python works best through **logical, progressive stages**.
 This roadmap takes you from your **first print statement** to **real-world projects**, reinforcing each concept with practice.
-
----
-
-## 🧰 1. Setting up your environment
-
-Before writing code, prepare your setup:
 
 1. Install **Python 3** from [python.org](https://www.python.org/downloads/).
 2. Choose a code editor **VS Code**, **PyCharm**, or **Neovim**.
@@ -89,17 +81,9 @@ python --version
 pip --version
 ```
 
-🧩 *Optional but recommended:* Create a virtual environment.
-
-```bash
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate     # Windows
-```
-
 ---
 
-## 💬 2. Exploring interactive mode (REPL)
+## 💬 Interactive mode
 
 Python includes an **interactive shell** called the **REPL** short for **Read–Eval–Print–Loop**.
 It’s one of the best ways to experiment, explore syntax, and test ideas instantly.
@@ -119,7 +103,7 @@ You’ll see:
 Hello, Python!
 ```
 
-### 💡 Why use the REPL?
+### 💡 Why REPL?
 
 ✅ Test code snippets interactively
 
@@ -133,7 +117,7 @@ Hello, Python!
 
 ---
 
-## 🧩 3. Python basics the building blocks
+## 🧩 Python basics
 
 Start with the essentials before working with data structures:
 
@@ -147,7 +131,7 @@ Start with the essentials before working with data structures:
 
 ---
 
-## 🔄 4. Control structures
+## 🔄 Control structures
 
 Control structures define **decision-making and repetition**:
 
@@ -157,7 +141,7 @@ Control structures define **decision-making and repetition**:
 
 ---
 
-## 🧮 5. Functions and scope
+## 🧮 Functions and scope
 
 Functions make code **modular and reusable**.
 
@@ -171,7 +155,7 @@ Learn how to:
 
 ---
 
-## 📦 6. Working with data structures
+## 📦 Working with data structures
 
 Python’s **core data containers** drive most applications:
 
@@ -182,7 +166,7 @@ Python’s **core data containers** drive most applications:
 
 ---
 
-## 🧱 7. Advanced data structures
+## 🧱 Advanced data structures
 
 Go beyond the basics with:
 
@@ -193,7 +177,7 @@ Go beyond the basics with:
 
 ---
 
-## 🧰 8. File handling and data I/O
+## 🧰 File handling and data I/O
 
 Learn how Python handles data:
 
@@ -203,7 +187,7 @@ Learn how Python handles data:
 
 ---
 
-## 🧠 9. Object-oriented programming
+## 🧠 Object-oriented programming
 
 Model real-world problems:
 
@@ -214,7 +198,7 @@ Model real-world problems:
 
 ---
 
-## 🧮 10. Modules, packages, and virtual environments
+## 🧮 Modules, packages, and virtual environments
 
 * Import built-in and third-party libraries
 * Create custom modules
@@ -222,7 +206,7 @@ Model real-world problems:
 
 ---
 
-## 🔬 11. Intermediate python concepts
+## 🔬 Intermediate python concepts
 
 * Iterators and generators
 * Decorators and closures
@@ -231,7 +215,7 @@ Model real-world problems:
 
 ---
 
-## ⚙️ 12. Working with APIs and external data
+## ⚙️ Working with APIs and external data
 
 * Retrieve web data with `requests`
 * Parse and manipulate JSON
@@ -239,7 +223,7 @@ Model real-world problems:
 
 ---
 
-## 🧩 13. Testing and debugging
+## 🧩 Testing and debugging
 
 * Write test cases using `unittest`
 * Debug using `pdb` and `logging`
@@ -247,7 +231,7 @@ Model real-world problems:
 
 ---
 
-## 🚀 14. Advanced topics
+## 🚀 Advanced topics
 
 * Functional programming (`map`, `filter`, `reduce`)
 * Multithreading and multiprocessing
@@ -256,7 +240,7 @@ Model real-world problems:
 
 ---
 
-## 📊 15. Data science and real-world projects
+## 📊 Data science and real-world projects
 
 * Use `pandas`, `numpy`, and `matplotlib`
 * Build small projects CSV analyzer, API dashboard
@@ -264,7 +248,7 @@ Model real-world problems:
 
 ---
 
-## 🏁 16. Next steps choose your track
+## 🏁 Next steps choose your track
 
 Once you’ve mastered Python fundamentals, explore one of these tracks:
 
@@ -346,5 +330,5 @@ Once you’ve mastered Python fundamentals, explore one of these tracks:
 
 ## ⭐ Support this project
 
-If Pythonista helps you learn faster, consider starring the repo on [GitHub](https://github.com/hetfs/Pythonista).
+If Pythonista helps you learn faster, consider starring the repo on [GitHub](https://github.com/hetfs/Pythonista)
 Your support encourages continuous updates and new projects for the community.
