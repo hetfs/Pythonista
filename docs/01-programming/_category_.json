@@ -1,0 +1,8 @@
+{
+    "label": "Programming Overview",
+    "position": 4,
+    "link": {
+        "type": "generated-index",
+        "description": "An introduction to programming concepts, programming languages, and the fundamental principles every developer should understand before building software."
+    }
+}

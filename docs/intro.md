@@ -38,14 +38,14 @@ Before you start, make sure these tools exist on your system:
 
 ## ⚡ Quick start guide
 
-### 1. Clone the repository
+1. Clone the repository
 
 ```bash
 git clone https://github.com/hetfs/Pythonista.git
 cd Pythonista
 ````
 
-### 2. Launch the documentation
+1. Launch the documentation
 
 ```bash
 npm install
@@ -73,8 +73,8 @@ Learning Python works best through **logical, progressive stages**.
 This roadmap takes you from your **first print statement** to **real-world projects**, reinforcing each concept with practice.
 
 1. Install **Python 3** from [python.org](https://www.python.org/downloads/).
-2. Choose a code editor **VS Code**, **PyCharm**, or **Neovim**.
-3. Verify installations:
+1. Choose a code editor **VS Code**, **PyCharm**, or **Neovim**.
+1. Verify installations:
 
 ```bash
 python --version
@@ -83,12 +83,10 @@ pip --version
 
 ---
 
-## 💬 Interactive mode
+## 🧑‍💻 Launch the REPL
 
 Python includes an **interactive shell** called the **REPL** short for **Read–Eval–Print–Loop**.
 It’s one of the best ways to experiment, explore syntax, and test ideas instantly.
-
-### 🧑‍💻 Launch the REPL
 
 Run this command in your terminal:
 
@@ -103,7 +101,9 @@ You’ll see:
 Hello, Python!
 ```
 
-### 💡 Why REPL?
+---
+
+## 💡 Why REPL
 
 ✅ Test code snippets interactively
 
@@ -113,7 +113,11 @@ Hello, Python!
 
 ✅ Learn Python dynamically no setup needed
 
-> 💬 Try typing `help(str)` to discover what Python strings can do.
+:::tip
+Explore built-in functions
+
+💬 Try typing `help(str)` to discover what Python strings can do.
+:::
 
 ---
 
@@ -127,7 +131,9 @@ Start with the essentials before working with data structures:
 * **User input** → `input()`
 * **Type conversion** → `int()`, `float()`, `str()`
 
+:::tip
 🧠 *Goal:* Learn how Python represents and manipulates data.
+:::
 
 ---
 
@@ -160,9 +166,9 @@ Learn how to:
 Python’s **core data containers** drive most applications:
 
 1. **Lists** ordered, mutable collections
-2. **Tuples** ordered, immutable collections
-3. **Sets** unordered, unique elements
-4. **Dictionaries** key-value mappings
+1. **Tuples** ordered, immutable collections
+1. **Sets** unordered, unique elements
+1. **Dictionaries** key-value mappings
 
 ---
 
@@ -173,7 +179,7 @@ Go beyond the basics with:
 * Nested lists and flattening
 * List and dictionary comprehensions
 * Sorting and filtering
-* Using `zip()`, `enumerate()`, and unpacking (`*args`, `**kwargs`)
+* Using `zip()`, `enumerate()`, and unpacking (`args`, `kwargs`)
 
 ---
 
@@ -261,39 +267,30 @@ Once you’ve mastered Python fundamentals, explore one of these tracks:
 
 ---
 
-## 🎯 Project portfolio
-
-### 🧩 Beginner projects
+## 🧩 Beginner projects
 
 * 📝 Todo CLI app
 * 🎮 Number guessing game
 * 💰 Expense tracker
 * 📊 Weather app (API integration)
 
-### 🚀 Intermediate projects
+---
+
+## 🚀 Intermediate projects
 
 * 🌐 Blog platform (Flask)
 * 📈 Stock analysis tool
 * 🤖 Discord bot
 * 🛒 E-commerce API
 
-### 🧠 Advanced projects
+---
+
+## 🧠 Advanced projects
 
 * 🧩 Machine learning model
 * ☁️ Cloud deployment (AWS or Azure)
 * 📱 Web scraper
 * 🔗 Microservices system
-
----
-
-## 📅 Recommended learning timeline
-
-| Phase       | Duration   | Focus                                     |
-| ----------- | ---------- | ----------------------------------------- |
-| **Phase 1** | Weeks 1–2  | Python fundamentals                       |
-| **Phase 2** | Weeks 3–4  | Intermediate concepts                     |
-| **Phase 3** | Weeks 5–8  | Specialization (web, data, or automation) |
-| **Phase 4** | Weeks 9–12 | Capstone project and portfolio            |
 
 ---
 
@@ -309,26 +306,42 @@ Once you’ve mastered Python fundamentals, explore one of these tracks:
 
 ---
 
-## 📚 Helpful resources
+## 📅 Recommended learning timeline
 
-* [Python Docs](https://docs.python.org/3/)
-* [Real Python](https://realpython.com/)
-* [Full Stack Python](https://www.fullstackpython.com/)
-* [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+| Phase       | Duration   | Focus                                     |
+| ----------- | ---------- | ----------------------------------------- |
+| **Phase 1** | Weeks 1–2  | Python fundamentals                       |
+| **Phase 2** | Weeks 3–4  | Intermediate concepts                     |
+| **Phase 3** | Weeks 5–8  | Specialization (web, data, or automation) |
+| **Phase 4** | Weeks 9–12 | Capstone project and portfolio            |
 
 ---
 
 ## 💬 FAQs
 
 **Q:** How long does it take to complete the course?
-**A:** Roughly 10–12 weeks, depending on your learning pace.
+**A:** Roughly 9–12 weeks, depending on your learning pace.
 
 **Q:** Do I need prior programming experience?
 **A:** No. Pythonista starts from scratch and guides you step by step.
 
 ---
 
+<div align="center">
+
 ## ⭐ Support this project
 
 If Pythonista helps you learn faster, consider starring the repo on [GitHub](https://github.com/hetfs/Pythonista)
 Your support encourages continuous updates and new projects for the community.
+
+## 📚 Helpful resources
+
+[Python Docs](https://docs.python.org/3/)
+
+[Real Python](https://realpython.com/)
+
+[Full Stack Python](https://www.fullstackpython.com/)
+
+[Automate the Boring Stuff](https://automatetheboringstuff.com/)
+
+</div>
