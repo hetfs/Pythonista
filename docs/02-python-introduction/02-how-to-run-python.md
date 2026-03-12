@@ -1,7 +1,7 @@
 ---
-id: 03-howt-to-run-python
+id: 02-howt-to-run-python
 title: Execute Python Code
-sidebar_position: 3
+sidebar_position: 2
 description: Learn different ways to execute Python code,interactive sessions to running full applications
 ---
 
@@ -17,6 +17,7 @@ Python offers multiple execution modes tailored for different scenarios, whether
 | **macOS/Linux** | `python3` | `python` (may point to Python 2) |
 
 **Always verify your Python version:**
+
 ```bash
 # Windows
 python --version
@@ -45,6 +46,7 @@ python3 --version
 ## Detailed Mode Explanations
 
 ### 1. Interactive Mode (REPL)
+
 **Perfect for:** Testing code snippets, learning Python, quick calculations
 
 ```bash
@@ -60,14 +62,17 @@ Hello, World!
 ```
 
 **Key Features:**
+
 - Immediate code execution and feedback
 - Access to help with `help(function_name)`
 - Command history (use up/down arrows)
 
 ### 2. Run Script Mode
+
 **Perfect for:** Running complete programs, production code, applications
 
 **Example script (`hello.py`):**
+
 ```python
 # hello.py
 def greet(name):
@@ -79,6 +84,7 @@ if __name__ == "__main__":
 ```
 
 **Execution:**
+
 ```bash
 $ python3 hello.py
 Hello, Alice!
@@ -87,6 +93,7 @@ $
 ```
 
 ### 3. One-liner Mode (`-c` flag)
+
 **Perfect for:** Quick calculations, system tasks, shell scripting
 
 ```bash
@@ -104,6 +111,7 @@ alice
 ```
 
 ### 4. Run Module Mode (`-m` flag)
+
 **Perfect for:** Built-in utilities, installed packages, module execution
 
 ```bash
@@ -122,9 +130,11 @@ $ python3 -m venv myenv
 ```
 
 ### 5. Script + Interactive Mode (`-i` flag)
+
 **Perfect for:** Debugging, data analysis, exploring script results
 
 **Example script (`calculator.py`):**
+
 ```python
 # calculator.py
 def multiply(a, b):
@@ -138,6 +148,7 @@ print(f"Calculation result: {result}")
 ```
 
 **Interactive debugging session:**
+
 ```bash
 $ python3 -i calculator.py
 Calculation result: 42
@@ -150,7 +161,6 @@ Calculation result: 42
 >>> dir()           # See available objects
 ['__builtins__', '__doc__', 'add', 'multiply', 'result']
 ```
-
 
 ---
 
@@ -174,7 +184,7 @@ graph TD
 
 ## Further Reading
 
-* [Python Module Search Path](https://docs.python.org/3/tutorial/modules.html)
+- [Python Module Search Path](https://docs.python.org/3/tutorial/modules.html)
 
 ---
 

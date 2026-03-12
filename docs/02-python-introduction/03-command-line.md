@@ -1,7 +1,7 @@
 ---
-id: 04-command-line-options
+id: 03-command-line-options
 title: Command-Line Options
-sidebar_position: 5
+sidebar_position: 3
 description: Learn essential Python command-line options for efficient development, debugging, and system administration.
 ---
 

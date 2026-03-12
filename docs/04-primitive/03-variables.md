@@ -1,13 +1,14 @@
 ---
-id: 03-variables-REPL
-title: 📦 Understanding Python variables
+id: 03-variables
+title: 📦 Python variable
 sidebar_position: 3
-description: Learn how Python variables store and manage data with clear examples and hands-on REPL practice for absolute beginners.
+description: Learn how Python variables store and manage data with clear examples and hands-on practice for absolute beginners.
 ---
 
-# 📦 Understanding Python variables
+# 📦 Python variable
 
-Variables label data so you can reuse it. Think of a variable like a name tag you attach to a value—later you call that name to get the value back.
+Variable label data so you can reuse it.
+Think of a variable like a name tag you attach to a value—later you call that name to get the value back.
 
 :::success 🎯 Try it now
 Open the Python REPL and type every example yourself. Typing helps you notice small details and learn faster.
@@ -200,7 +201,7 @@ Type these exercises in the REPL and experiment.
 1. Personal profile
    Create variables for your name, age, favorite food, and `likes_python` then print them.
 
-2. Example calculator
+1. Example calculator
 
    ```python
    >>> length = 10
@@ -209,7 +210,7 @@ Type these exercises in the REPL and experiment.
    >>> print(f"The area is: {area}")
    ```
 
-3. Swap values
+1. Swap values
 
    ```python
    >>> a = "chocolate"
@@ -218,7 +219,7 @@ Type these exercises in the REPL and experiment.
    >>> print(a, b)
    ```
 
-4. Type explorer
+1. Type explorer
 
    ```python
    >>> values = [42, 3.14, "hello", True, [1,2]]
@@ -259,9 +260,9 @@ Try small experiments in the REPL: change a variable, print it, check its type, 
 ## 🚀 Your variable challenge
 
 1. Create five variables that mix strings, numbers, and booleans.
-2. Change three values and print each result.
-3. Make a list, copy it, mutate the original, and verify the copy stays unchanged.
-4. Swap two values without a temporary variable.
+1. Change three values and print each result.
+1. Make a list, copy it, mutate the original, and verify the copy stays unchanged.
+1. Swap two values without a temporary variable.
 
 Keep practicing the REPL rewards experimentation.
 

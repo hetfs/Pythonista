@@ -1,7 +1,7 @@
 ---
-id: 05-naming-conventions
-title: Python Naming Conventions
-sidebar_position: 5
+id: 04-naming-conventions
+title: Naming Conventions
+sidebar_position: 4
 description: Learn the official Python naming conventions from PEP 8. covering variables, functions, classes, constants, and best practices for clean and professional code.
 ---
 
@@ -312,10 +312,10 @@ class ProductionConfig:
 
 Popular tools for maintaining PEP 8 compliance:
 
-- **[flake8](https://flake8.pycqa.org/)** — style and linting checks
-- **[pylint](https://www.pylint.org/)** — comprehensive code analysis
-- **[black](https://black.readthedocs.io/)** — automatic code formatting
-- **[isort](https://pycqa.github.io/isort/)** — import sorting
+* **[flake8](https://flake8.pycqa.org/)** — style and linting checks
+* **[pylint](https://www.pylint.org/)** — comprehensive code analysis
+* **[black](https://black.readthedocs.io/)** — automatic code formatting
+* **[isort](https://pycqa.github.io/isort/)** — import sorting
 
 You can introduce these tools in your project (locally or via CI) so that they enforce style, formatting, and import consistency automatically.
 Popular tools for maintaining PEP 8 compliance:
@@ -336,12 +336,12 @@ Modern editors such as **PyCharm** and **VS Code** provide:
 ## 🌟 Golden Rules for Python Naming
 
 1. **Be Descriptive:** Names should reveal purpose and intent.
-2. **Be Consistent:** Stick to a single style across your project.
-3. **Follow Conventions:** Align with PEP 8 and community standards.
-4. **Use English:** Keep identifiers in English for global readability.
-5. **Avoid Ambiguity:** Don’t use unclear abbreviations.
-6. **Make It Pronounceable:** You should be able to discuss your code easily.
-7. **Prefer Searchable Names:** Avoid single letters except in simple loops.
+1. **Be Consistent:** Stick to a single style across your project.
+1. **Follow Conventions:** Align with PEP 8 and community standards.
+1. **Use English:** Keep identifiers in English for global readability.
+1. **Avoid Ambiguity:** Don’t use unclear abbreviations.
+1. **Make It Pronounceable:** You should be able to discuss your code easily.
+1. **Prefer Searchable Names:** Avoid single letters except in simple loops.
 
 ---
 
@@ -366,4 +366,3 @@ Consistent naming improves readability, reduces errors, and makes teamwork easie
 💡 **Consistency across a project is more important than perfect adherence to every rule.**
 The goal is clarity and maintainability not perfection.
 :::
-
