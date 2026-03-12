@@ -81,13 +81,7 @@ npm install
 ### Start the Documentation Server
 
 ```bash
-npm start
-```
-
-Open:
-
-```
-http://localhost:3000
+npm start # Open http://localhost:3000
 ```
 
 The site automatically reloads when documentation files change.

@@ -68,7 +68,7 @@ javac Hello.java
 
 ## **Program Execution Flow**
 
-![Source Code to Bytecode Flow](https://github.com/hetfs/Pythonista/blob/main/static/img/data-types-flowchart.png)
+![Source Code to Bytecode Flow](https://github.com/hetfs/Pythonista/blob/main/static/img/source-code-bytcode.png)
 
 > **Note:** The diagram illustrates the flow from **human-readable source code**, which is written by the programmer, to **bytecode**, the intermediate representation, and finally to **machine code**, which the CPU executes directly.
 

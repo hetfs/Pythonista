@@ -106,7 +106,7 @@ Each stage introduces concepts, reinforces them with exercises, and finishes wit
 
 ## Learning Roadmap
 
-![Data types flowchart](/img/data-types-flowchart.png)
+![Data types flowchart](https://github.com/hetfs/Pythonista/blob/main/static/img/data-types-flowchart.png)
 
 ---
 
